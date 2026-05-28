@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Base Deep Tech Blue Background -->
+    <path
+        android:fillColor="#0B3C83"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Isometric Abstract Layer 1 (Tech teal circle accent) -->
+    <path
+        android:fillColor="#151A73E8"
+        android:pathData="M84,24 C84,57.1 57.1,84 24,84 C-9.1,84 -36,57.1 -36,24 C-36,-9.1 -9.1,-36 24,-36 C57.1,-36 84,-9.1 84,24 Z" />
+
+    <!-- Isometric Abstract Layer 2 (Light tech blue accent) -->
+    <path
+        android:fillColor="#2200E5FF"
+        android:pathData="M144,84 C144,117.1 117.1,144 84,144 C50.9,144 24,117.1 24,84 C24,50.9 50.9,24 84,24 C117.1,24 144,50.9 144,84 Z" />
+
+</vector>

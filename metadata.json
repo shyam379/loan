@@ -1,0 +1,6 @@
+{
+  "name": "Loan EMI Calculator",
+  "description": "Premium fintech Loan EMI Calculator to check EMIs, compare loans, plan savings, and view monthly amortization schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
